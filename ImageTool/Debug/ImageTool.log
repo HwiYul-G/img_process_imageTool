@@ -1,0 +1,42 @@
+﻿  pch.cpp
+  CAddNoiseDlg.cpp
+  CCannyEdgeDlg.cpp
+  CDiffusionDlg.cpp
+  CGammaCorrectionDlg.cpp
+C:\Users\Admin\Desktop\ImageTool\ImageTool\CGammaCorrectionDlg.cpp(30,43): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  CGaussianDlg.cpp
+C:\Users\Admin\Desktop\ImageTool\ImageTool\CGaussianDlg.cpp(30,43): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  CHarrisCornerDlg.cpp
+  ChildFrm.cpp
+  CHistogramDlg.cpp
+  CResizeDlg.cpp
+  CTranslateDlg.cpp
+  ImageTool.cpp
+  ImageToolDoc.cpp
+  ImageToolView.cpp
+  IppConvert.cpp
+  IppDib.cpp
+  IppGeometry.cpp
+  IppColor.cpp
+  IppEnhance.cpp
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppEnhance.cpp(39,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IppFeature.cpp
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFeature.cpp(46,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFeature.cpp(75,46): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFeature.cpp(173,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFeature.cpp(174,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IppFilter.cpp
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFilter.cpp(135,32): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFilter.cpp(209,12): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFilter.cpp(209,15): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFilter.cpp(233,12): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFilter.cpp(233,15): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFilter.cpp(289,5): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFilter.cpp(285,12): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+C:\Users\Admin\Desktop\ImageTool\ImageTool\IppImage\IppFilter.cpp(285,15): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  MainFrm.cpp
+  OutputWnd.cpp
+  코드를 생성하고 있습니다...
+  ImageTool.vcxproj -> C:\Users\Admin\Desktop\ImageTool\Debug\ImageTool.exe
